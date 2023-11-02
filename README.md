@@ -3,9 +3,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yamazaki-hidekuni&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamazaki-hidekuni&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://qiita.com/yamazaki_25">
   <img src="https://img.shields.io/badge/yamazaki-Qiita-55C500.svg?logo=qiita&style=plastic">
 </a>
